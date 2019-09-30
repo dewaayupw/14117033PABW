@@ -1,0 +1,3 @@
+1. pernah terjadi eror tapi masih bisa jalan
+2. url untuk menetapkan tujuan dari refresh. content untuk menetapkan waktu refresh
+3. tag tabel untuk membuat tabel. tag thead untuk mengelompokkan isi header pada tabel. tag tr untuk membuat baris dalam tabel.tag th untuk mendefinisikan sel header dalam sebuah tabel. tag td untuk mendefinisikan sel dalam tabel

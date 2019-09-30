@@ -1,0 +1,60 @@
+    body{
+        background-image:url('lott.jpg');
+        background-size:cover;
+        background-position: center;
+        background-attachment: fixed;
+        color: rgb(0,0,0);
+        font-family: arial light, sans-serif;
+        font-style: normal; 
+    }
+    
+    .box{
+        background-color: rgba(163, 227, 238, 0.3);
+        position : fixed;
+        width:600px;
+        height:300px;
+        bottom:200px;
+        margin-left:150px;
+        padding-left:68px;
+              
+    }
+
+    .box h1 {
+        text-align: center;
+    }
+
+    
+    footer{
+        width: 10%;
+        height: 10%;
+        bottom: 0%;
+        padding-left: 10px;
+        line-height: 100%;
+        background: rgb(105, 88, 88);
+        color: #fff;
+        display: absolute;
+    }
+    
+    ul {
+        float: fixed;
+        list-style-type: none;
+        margin-top: 38px;
+    }
+    
+    ul li {
+        display: inline-block;
+    }
+    
+    ul li a {
+        text-decoration: none;
+        color: rgb(161, 226, 238);
+        padding: 5px 20px;
+        border: 1px solid #fff;
+        transition: 0.6s ease;
+    }
+    
+    ul li a:hover {
+        background-color: #fff;
+        color: blanchedalmond;
+    }
+}
