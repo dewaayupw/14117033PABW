@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,MAAO;EACP,UAAU,EAHS,OAAO;EAI1B,KAAK,EAHS,KAAK;EAKnB,UAAG,EAPe,eAAe;EAQjC,aAAM,EARY,eAAe;EAUjC,UAAU,EAAG,MAAM;EACnB,OAAO,EAAG,IAAI;EACd,WAAW,EAAG,IAAI;EAClB,cAAQ;IACR,SAAS,EAAG,IAAI;IAChB,KAAK,EAbS,KAAK",
+"sources": ["variable-sass.scss"],
+"names": [],
+"file": "variable-sass.css"
+}
